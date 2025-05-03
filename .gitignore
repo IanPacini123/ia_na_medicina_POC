@@ -1,4 +1,10 @@
-
+# Ambientes virtuais
 env_ia/
+venv/
+
+# Arquivos pesados
 *.dylib
 *.so
+*.pth
+*.h5
+*.weights
